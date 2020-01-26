@@ -1,0 +1,12 @@
+C:\Users\Aet\Desktop\WeatherApp2\WeatherApp2\bin\Debug\WeatherApp2.exe.config
+C:\Users\Aet\Desktop\WeatherApp2\WeatherApp2\bin\Debug\WeatherApp2.exe
+C:\Users\Aet\Desktop\WeatherApp2\WeatherApp2\bin\Debug\WeatherApp2.pdb
+C:\Users\Aet\Desktop\WeatherApp2\WeatherApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Aet\Desktop\WeatherApp2\WeatherApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Aet\Desktop\WeatherApp2\WeatherApp2\obj\Debug\WeatherApp2.csprojAssemblyReference.cache
+C:\Users\Aet\Desktop\WeatherApp2\WeatherApp2\obj\Debug\WeatherApp2.Form1.resources
+C:\Users\Aet\Desktop\WeatherApp2\WeatherApp2\obj\Debug\WeatherApp2.Properties.Resources.resources
+C:\Users\Aet\Desktop\WeatherApp2\WeatherApp2\obj\Debug\WeatherApp2.csproj.GenerateResource.cache
+C:\Users\Aet\Desktop\WeatherApp2\WeatherApp2\obj\Debug\WeatherApp2.csproj.CopyComplete
+C:\Users\Aet\Desktop\WeatherApp2\WeatherApp2\obj\Debug\WeatherApp2.exe
+C:\Users\Aet\Desktop\WeatherApp2\WeatherApp2\obj\Debug\WeatherApp2.pdb
